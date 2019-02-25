@@ -45,7 +45,7 @@ var car = {
 
 
 var motorcycle = {
-    color: "blue",
+    color: "black",
     numtires: 2,
     model: "harley"
 };
